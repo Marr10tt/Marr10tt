@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Marr10tt
 - 👀 I’m interested in Games development and Software programming
-- 🌱 I’m currently learning Discord bot stuff
+- 🌱 I’m currently not learning 
 - 💞️ I’m looking to collaborate on fuck all
 - 📫 How to reach me no
